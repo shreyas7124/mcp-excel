@@ -1,5 +1,5 @@
 # mcp-excel
-Parse the excel files and then will provide the schema
+Parse the excel files and then provide the schema
 
 
 # MCP Excel Integration
