@@ -46,6 +46,9 @@ Use the Excel ingestion script to process and push Excel files:
 
 python mcp_excel2.py /path/to/file.xlsx --schema schema.json --model <model-name> --push-to-mcp
 
+### Example : RUN --  python mcp_excel2.py Electiondata.xlsx --schema schemaele.json --model meta-llama/llama-4-maverick-17b-128e-instruct
+Model : meta-llama/llama-4-maverick-17b-128e-instruct
+
 
 ### 5. Connect Claude Desktop to MCP Server
 Configure Claude Desktop to connect to your MCP server in `claude_desktop_config.json`, e.g.:{
