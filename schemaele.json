@@ -1,0 +1,17 @@
+{
+    "Maharashtra": [
+        {
+            "Party": "String",
+            "Votes": "String",
+            "Winner": "String"
+        }
+    ],
+    "Rajasthan":[
+        {
+            "Party": "String",
+            "Votes": "String",
+            "Winner": "String"
+        }
+    ]
+
+}
